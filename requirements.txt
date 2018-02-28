@@ -1,7 +1,1 @@
-easydict==1.7
-pytest==3.0.3
-opencv-python
-Flask==0.12.2
-numpy==1.14.2
-Pillow==4.1.1
-PyYAML==3.12
+Flask==0.12.1
