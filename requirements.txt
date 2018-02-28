@@ -1,3 +1,7 @@
-Flask==0.11.1
-flask-cors
-Wheels\Pillow-4.0.0-cp35-cp35m-win_amd64.whl
+easydict==1.7
+pytest==3.0.3
+opencv-python
+Flask==0.12.2
+numpy==1.14.2
+Pillow==4.1.1
+PyYAML==3.12
